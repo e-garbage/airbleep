@@ -52,7 +52,7 @@ OSC messages are send at the same time as MIDI messages
 - Install the dependencies through pip
 
     ```bash
-    cd airbleep && pip install requirements.txt
+    cd airbleep && pip install -r requirements.txt
     ```
 
 ### Usage
