@@ -1,0 +1,8 @@
+subprocess
+re
+pythonosc
+rich
+mido
+logging
+argparse
+
