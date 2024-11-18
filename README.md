@@ -1,4 +1,4 @@
-# Airbleep GitHub
+# Airbleep
 
 Airbleep is a stupid but yet working python warper for airodump-ng that translate to OSC and MIDI notes all the signals coming from wifi clients nearby (i.e any wifi device that doesn’t act as an AP). It correlate signal strength to sound intensity, and gives every MAC address a unique sound. This is has been developed as an art project, but try to explore how to use sonification of data in a context of dense and not easily readable data landscape such as wifi devices coming in and out in a city center.
 
@@ -43,15 +43,15 @@ OSC messages are send at the same time as MIDI messages
     
 - Then download this repo:
 
-```bash
-git clone https://github.com/e-garbage/airbleep/
-```
+    ```bash
+    git clone https://github.com/e-garbage/airbleep/
+    ```
 
 - Install the dependencies through pip
 
-```bash
-cd airbleep && pip install requirements.txt
-```
+    ```bash
+    cd airbleep && pip install requirements.txt
+    ```
 
 ### Usage
 
