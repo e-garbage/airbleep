@@ -93,4 +93,6 @@ The guys there also implemented an impressive light show as well as a huge mappi
 
 Finally I performed a 1h live improvised live set using almost exclusively this script to create melodies and texture in a techno genre. I sequenced myself all the other sounds and instruments. Before and after, people enjoyed the nicely dissonant sounds of wifi triggered synth since this is basically generative music ;)
 
+
+All the pictures made by [Folnui](https://www.folnui.com/) 
 Hit me up for any questions.
